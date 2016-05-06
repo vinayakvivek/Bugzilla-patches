@@ -1,2 +1,2 @@
 # Bugzilla-patches
-Patches/Bugzilla
+Patches that I have submitted in Bugzilla
